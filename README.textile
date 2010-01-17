@@ -1,0 +1,8 @@
+h1. PushesUs MacRuby Application
+
+h2. Before use:
+
+  sudo macgem install pushesus
+  
+h2. what it looks like
+<img src='http://www.pozdena.org/snaps/8cb75fe9f9717de0bb917f94f84aedd6.png' />
